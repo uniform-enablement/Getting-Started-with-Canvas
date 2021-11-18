@@ -40,7 +40,7 @@ Proceed to next Step, and Install Uniform App in BigCommerce.
 
 Once you complete that Step, Continue.
 
-In the next Step we will be deploying our website to Netlify
+In the next Step we will be deploying our website to Netlify, click on the "Deploy to Netlify" button.
 
 ![image](https://user-images.githubusercontent.com/90791205/142448122-b57d57dc-d136-4a28-9a29-87aac87aea4b.png)
 

@@ -75,6 +75,8 @@ Go back to Uniform Dashboard into Settings > Webhooks, and paste the webhook and
 
 Once you are done with that, by then the build should be completed and you should be able to view your website deployed.
 
+Go back to Netlify click on Deploys and your site url will be available there.
+
 ![image](https://user-images.githubusercontent.com/90791205/142449818-f085086e-a002-46c4-8e5a-f70e5717d240.png)
 
 This Completes the tutorial

@@ -53,7 +53,7 @@ Follow the steps in Netlify:
 
 While Deployment is in progress, lets go ahead and add a WebHook.
 
-Inside Netlify under Build & Deploy > Continuous Deployment > Build Hook
+Inside Netlify under Settings navigate over to Build & Deploy > Continuous Deployment > Build Hook
 
 ![image](https://user-images.githubusercontent.com/90791205/142449116-a694fba6-2bed-4180-9fc7-ba237ffda79a.png)
 
@@ -61,7 +61,7 @@ For an easier navigation
 
 https://app.netlify.com/sites/{your-site-name}/settings/deploys#build-hooks
 
-Create a webhook
+Create a webhook and call it "Uniform" and click Save.
 
 ![image](https://user-images.githubusercontent.com/90791205/142449194-b5584d69-79b1-4ab0-b1fc-b569c19efa14.png)
 
@@ -69,7 +69,7 @@ Copy the generated web hook (dont try using this webhook it is no longer availab
 
 ![image](https://user-images.githubusercontent.com/90791205/142449226-94252ca0-8cce-4763-8905-f8bbc50f1124.png)
 
-Navigate over to Uniform and paste the webhook and add it.
+Go back to Uniform Dashboard into Settings > Webhooks, and paste the webhook and give it a name Netlify.
 
 ![image](https://user-images.githubusercontent.com/90791205/142449625-777ad2e8-8abd-4678-9ffd-ca0940643088.png)
 
